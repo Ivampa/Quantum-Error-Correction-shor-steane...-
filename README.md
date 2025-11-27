@@ -22,9 +22,11 @@ The Steane [[7,1,3]] code will be added and analysed following the same structur
 - Application to small algorithmic examples (QPE, Grover, etc.)
 - Comparison with other error-correcting schemes
 
-Code was assisted by AI.
+
+
 
 ---
 
 
 
+Some parts of this code were developed with the assistance of AI and were reviewed and adapted by the author.
